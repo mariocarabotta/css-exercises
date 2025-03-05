@@ -1,0 +1,19 @@
+p {
+    background-color: #f08080;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#ciao {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#yo {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 600;
+}
